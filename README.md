@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rodolpho</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Alliance Solar](as electrical engineer)
+- 🔭 I’m currently working on DB1 Global Software
 
-- 🌱 I’m currently learning **React, Typescript, Node and APIs**
+- 🌱 I’m currently working with Java
 
 - 👨‍💻 All of my projects are available at [https://github.com/RodolphoToppan](https://github.com/RodolphoToppan)
 
-- 💬 Ask me about **HTML, CSS, Javascript**
-
 - 📫 How to reach me **rodolphotoppan@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rodolpho-toppan-a74250205/](https://www.linkedin.com/in/rodolpho-toppan-a74250205/)
-
-- ⚡ Fun fact **I love Pokemon**
+- 📄 Know about my experiences [https://www.linkedin.com/in/rodolpho-toppan-a74250205/](https://www.linkedin.com/in/rodolpho-toppan-a74250205/) and my [brag document](https://www.notion.so/Rodolpho-Toppan-Brag-Document-1ebcdba9a8628014935df8d68d369df4?pvs=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
