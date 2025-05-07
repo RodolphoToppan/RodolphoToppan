@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rodolpho</h1>
 <h3 align="center">A flexible developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolphotoppan&label=Profile%20views&color=0e75b6&style=flat" alt="rodolphotoppan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodolphotoppan" alt="rodolphotoppan" /></a> </p>
 
 - 🔭 I’m currently working on **DB1 Global Software**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RodolphoToppan?tab=repositories](https://github.com/RodolphoToppan?tab=repositories)
+- 🌱 I’m currently improving my coding and communication abilities
 
-- 📄 Know about my experiences [https://www.notion.so/Rodolpho-Toppan-Brag-Document-1ebcdba9a8628014935df8d68d369df4?pvs=4](https://www.notion.so/Rodolpho-Toppan-Brag-Document-1ebcdba9a8628014935df8d68d369df4?pvs=4)
+- 👨‍💻 All of my projects are available [here](https://github.com/RodolphoToppan?tab=repositories)
+
+- 📄 Know about my experiences [brag document](https://www.notion.so/Rodolpho-Toppan-Brag-Document-1ebcdba9a8628014935df8d68d369df4?pvs=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
